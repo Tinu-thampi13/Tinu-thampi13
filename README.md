@@ -12,6 +12,7 @@
 - 🔭 I’m currently working on **Competitive Programming**
 
 - 📫 How to reach me **tinuthampi13@gmail.com**
+- LinkedIn **https://www.linkedin.com/in/tinu-thampi/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
