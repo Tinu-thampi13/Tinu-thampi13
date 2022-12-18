@@ -9,7 +9,14 @@
 
 
 
-- 🔭 I’m currently working on **Competitive Programming**
+- I am a **competitive programmer** and **developer** with knowledge in **cloud computing**. 
+- I enjoy tackling challenging problems and constantly strive to improve my skills and expand my knowledge base.
+
+On my profile, you will find a variety of projects that showcase my abilities as a developer. These range from small scripts and programs to more complex applications and systems.
+
+In addition to my experience in competitive programming and cloud computing, I am also proficient in a number of programming languages and frameworks. Some of these include **C++, Flutter, Python, and GCP**.
+
+Thank you for visiting my profile. I hope you find my work interesting and useful. If you have any questions or would like to collaborate on a project, don't hesitate to reach out. I am always open to new opportunities and learning experiences.
 
 - 📫 How to reach me **tinuthampi13@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/tinu-thampi/**
@@ -19,6 +26,8 @@
 <a href="https://linkedin.com/in/tinu-thampi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tinu-thampi13" height="30" width="40" /></a>
 <a href="https://instagram.com/unknown_entity13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unknown_entity13" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/tinu-thampi13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="tinu-thampi13" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tinu_thampi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="tinu-thampi13" height="30" width="40" /></a>
+<a href="https://leetcode.com/Tinu_thampi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="tinu-thampi13" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
