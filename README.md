@@ -8,6 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tinu-thampi13&label=Profile%20views&color=0e75b6&style=flat" alt="tinu-thampi13" /> </p>
 
 
+- A programming enthusiast | Flutter Developer | Hive | SQLITE | Firebase | Riverpod | Provider | GetX | Competitive programmer | knowledge in full stack development and google cloud platform.
 
 - I am a **Competitive programmer** and **Developer** with knowledge in **Cloud Computing**. 
 - I enjoy tackling challenging problems and constantly strive to improve my skills and expand my knowledge base.
