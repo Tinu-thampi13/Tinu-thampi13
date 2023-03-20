@@ -9,8 +9,11 @@
 
 
 - A programming enthusiast | Flutter Developer | Hive | SQLITE | Firebase | Riverpod | Provider | GetX | knowledge in full stack development and Google Cloud Platform.
+
 - I am a **Competitive programmer** and **Developer** with knowledge in **Cloud Computing**. 
+
 - I enjoy tackling challenging problems and constantly strive to improve my skills and expand my knowledge base.
+
 
 On my profile, you will find a variety of projects that showcase my abilities as a developer. These range from small scripts and programs to more complex applications and systems.
 
