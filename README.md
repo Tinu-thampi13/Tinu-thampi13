@@ -23,7 +23,9 @@ In addition to my experience in competitive programming and cloud computing, I a
 Thank you for visiting my profile. I hope you find my work interesting and useful. If you have any questions or would like to collaborate on a project, don't hesitate to reach out. I am always open to new opportunities and learning experiences.
 
 <br>
-- 📫 How to reach me **tinuthampi13@gmail.com**
+
+- 📫 How to reach me
+-  **tinuthampi13@gmail.com**
 - LinkedIn **https://www.linkedin.com/in/tinu-thampi/**
 
 <h3 align="left">Connect with me:</h3>
