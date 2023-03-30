@@ -24,7 +24,7 @@ Thank you for visiting my profile. I hope you find my work interesting and usefu
 
 <br>
 
-- 📫 How to reach me
+ 📫 How to reach me
 -  **tinuthampi13@gmail.com**
 - LinkedIn : **https://www.linkedin.com/in/tinu-thampi/**
 
