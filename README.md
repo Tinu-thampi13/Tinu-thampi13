@@ -19,14 +19,14 @@
 
 On my profile, you will find a variety of projects that showcase my abilities as a developer. These range from small scripts and programs to more complex applications and systems.
 
-In addition to my experience in competitive programming and cloud computing, I am also proficient in a number of programming languages and frameworks. Some of these include **C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/>, Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>, Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>, and GCP <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="15" height="15"/>**.
+Some of these include **C++ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="15" height="15"/>, Flutter <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/>, Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>, and GCP <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="15" height="15"/>**.
 
 Thank you for visiting my profile. I hope you find my work interesting and useful. If you have any questions or would like to collaborate on a project, don't hesitate to reach out. I am always open to new opportunities and learning experiences.
 
 <br>
 
  📫 How to reach me
--  **tinuthampi13@gmail.com**
+-  Mail : **tinuthampi13@gmail.com**
 - LinkedIn : **https://www.linkedin.com/in/tinu-thampi/**
 
 <h3 align="left">Connect with me:</h3>
